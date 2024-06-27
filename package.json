@@ -1,0 +1,15 @@
+{
+  "name": "generate-ics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate": "ts-node ./generate-ics.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.30.1",
+    "ts-node": "^10.9.2"
+  }
+}
